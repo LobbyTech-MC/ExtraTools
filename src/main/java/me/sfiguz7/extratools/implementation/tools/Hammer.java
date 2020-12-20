@@ -66,6 +66,8 @@ public class Hammer extends SimpleSlimefunItem<ToolUseHandler> {
             case NETHERRACK: {
                 return new ItemStack(Material.SOUL_SAND);
             }
+		default:
+			break;
         }
 
         return null;

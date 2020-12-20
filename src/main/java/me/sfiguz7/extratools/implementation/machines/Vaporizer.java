@@ -72,7 +72,7 @@ public class Vaporizer extends AContainer implements RecipeDisplayItem {
 
     @Override
     public String getInventoryTitle() {
-        return "&cVaporizer";
+        return "&c蒸发器";
     }
 
     @Override
