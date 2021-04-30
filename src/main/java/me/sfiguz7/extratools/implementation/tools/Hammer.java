@@ -8,6 +8,7 @@ import io.github.thebusybiscuit.slimefun4.core.handlers.ToolUseHandler;
 import io.github.thebusybiscuit.slimefun4.implementation.SlimefunItems;
 import io.github.thebusybiscuit.slimefun4.implementation.items.SimpleSlimefunItem;
 import me.mrCookieSlime.Slimefun.Lists.RecipeType;
+import me.mrCookieSlime.Slimefun.api.Slimefun;
 import me.sfiguz7.extratools.lists.ETItems;
 
 public class Hammer extends SimpleSlimefunItem<ToolUseHandler> {
